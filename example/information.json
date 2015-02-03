@@ -1,0 +1,8 @@
+{
+    "name": "ashutosh",
+    "age": "22",
+    "location": {
+        "location1": "mumbai",
+        "location2": "kalyan"
+    }
+}
